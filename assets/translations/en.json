@@ -1,0 +1,21 @@
+{
+    "genre_section" : "Selection by genre",
+    "novel" : "Novel",
+    "detective" : "Detective",
+    "fantasy" : "Fantasy",
+    "profile" : "Profile",
+    "check_ticket" : "Show your ticket when picking up/delivering literature",
+    "edit" : "Change",
+    "controller" : "Controller",
+    "logout" : "Logout",
+    "error" : "An error has occurred. Try again.",
+    "check_for_added" : "Contact the controller for registration.",
+    "story" : "Currently",
+    "reader_ticket" : "Library card",
+    "login" : "Login",
+    "register" : "Register",
+    "full_mame" : "Full name",
+    "mail" : "Email",
+    "age" : "Age",
+    "pass" : "Password"
+}
